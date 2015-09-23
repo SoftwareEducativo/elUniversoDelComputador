@@ -1,0 +1,2702 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="572"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="botones-definitivos.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3450"
+       inkscape:collect="always">
+      <stop
+         id="stop3452"
+         offset="0"
+         style="stop-color:#e6e6e6;stop-opacity:1" />
+      <stop
+         id="stop3454"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3400"
+       inkscape:collect="always">
+      <stop
+         id="stop3402"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         id="stop3404"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:1" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 286 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1024 : 286 : 1"
+       inkscape:persp3d-origin="512 : 190.66667 : 1"
+       id="perspective142" />
+    <linearGradient
+       id="linearGradient4043"
+       inkscape:collect="always">
+      <stop
+         id="stop4045"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         id="stop4047"
+         offset="1"
+         style="stop-color:#d5e5ff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4003">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop4005" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4007" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3814">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop3816" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3818" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3798"
+       inkscape:collect="always">
+      <stop
+         id="stop3800"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1" />
+      <stop
+         id="stop3804"
+         offset="1"
+         style="stop-color:#d5d5ff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3784">
+      <stop
+         style="stop-color:#00002b;stop-opacity:1"
+         offset="0"
+         id="stop3786" />
+      <stop
+         id="stop3792"
+         offset="0.49905592"
+         style="stop-color:#000080;stop-opacity:1" />
+      <stop
+         style="stop-color:#d5d5ff;stop-opacity:1"
+         offset="1"
+         id="stop3788" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3776">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop3778" />
+      <stop
+         style="stop-color:#d5e5ff;stop-opacity:0"
+         offset="1"
+         id="stop3780" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3814"
+       id="linearGradient3820"
+       x1="504.60526"
+       y1="306.39969"
+       x2="503.27383"
+       y2="402.20099"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3814"
+       id="linearGradient3840"
+       gradientUnits="userSpaceOnUse"
+       x1="504.60526"
+       y1="306.39969"
+       x2="503.27383"
+       y2="402.20099" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3814"
+       id="linearGradient3844"
+       gradientUnits="userSpaceOnUse"
+       x1="504.60526"
+       y1="306.39969"
+       x2="503.27383"
+       y2="402.20099"
+       gradientTransform="translate(-0.94145062,-0.54193392)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3814"
+       id="linearGradient3854"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.94145062,-0.54193392)"
+       x1="504.60526"
+       y1="306.39969"
+       x2="503.27383"
+       y2="402.20099" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3881"
+       x1="875.57068"
+       y1="355.66626"
+       x2="875.16016"
+       y2="409.42261"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,3.4180331)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3905"
+       x1="1096.0155"
+       y1="424.0473"
+       x2="1097.0256"
+       y2="482.63614"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.0101525,-4.0406102)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3929"
+       x1="1475.8329"
+       y1="417.98639"
+       x2="1475.8329"
+       y2="485.6666"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-1.767767)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3965"
+       x1="-84.899307"
+       y1="352.28683"
+       x2="-83.166664"
+       y2="403.9657"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.57754628,0.88339943)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3973"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,-0.33767943,129.29457,1202.6327)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4003"
+       id="linearGradient4009"
+       x1="-548.9621"
+       y1="381.30273"
+       x2="-546.58051"
+       y2="812.92505"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-2.560026)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient4031"
+       x1="-1018.2338"
+       y1="404.8544"
+       x2="-1018.2338"
+       y2="483.6463"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient4041"
+       x1="1851.4617"
+       y1="425.02463"
+       x2="1852.028"
+       y2="497.41641"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient4135"
+       gradientUnits="userSpaceOnUse"
+       x1="1851.4617"
+       y1="425.02463"
+       x2="1852.028"
+       y2="497.41641" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient4143"
+       gradientUnits="userSpaceOnUse"
+       x1="-1018.2338"
+       y1="404.8544"
+       x2="-1018.2338"
+       y2="483.6463" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient4145"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-939.44186,-2.2856792e-8)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient4147"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.5339676,-939.44186,-190.62913)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4003"
+       id="linearGradient4149"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-2.560026)"
+       x1="-548.9621"
+       y1="381.30273"
+       x2="-546.58051"
+       y2="812.92505" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient4151"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,-451.53819,1032.0123)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient4153"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-450.52803,-4.0406102)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient4155"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.5339676,-450.52803,-194.66974)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient4165"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-1.767767)"
+       x1="1475.8329"
+       y1="417.98639"
+       x2="1475.8329"
+       y2="485.6666" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient4167"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,464.70413,1036.0529)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient4169"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(465.71429,0)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient4171"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.5339676,465.71429,-190.62913)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient4173"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.0101525,-4.0406102)"
+       x1="1096.0155"
+       y1="424.0473"
+       x2="1097.0256"
+       y2="482.63614" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient4181"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,3.4180331)"
+       x1="875.57068"
+       y1="355.66626"
+       x2="875.16016"
+       y2="409.42261" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3814"
+       id="linearGradient4189"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.94145062,-0.54193392)"
+       x1="504.60526"
+       y1="306.39969"
+       x2="503.27383"
+       y2="402.20099" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient2950"
+       gradientUnits="userSpaceOnUse"
+       x1="1851.4617"
+       y1="425.02463"
+       x2="1852.028"
+       y2="497.41641"
+       gradientTransform="matrix(0.27875758,0,0,0.27875758,228.87714,696.40865)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient2988"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.27875758,0,0,0.27875758,228.87714,696.40865)"
+       x1="1851.4617"
+       y1="425.02463"
+       x2="1852.028"
+       y2="497.41641" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient2992"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.27875758,0,0,0.27875758,228.87714,696.40865)"
+       x1="1851.4617"
+       y1="425.02463"
+       x2="1852.028"
+       y2="497.41641" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient2997"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.21484365,0,0,0.42947292,653.44742,646.63612)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient3000"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.21484365,0,0,0.27997522,653.44742,700.00755)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3003"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.21484365,0,0,-0.02505264,653.23039,857.27895)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3041"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578675,0,0,0.5366849,501.89517,305.40673)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient3044"
+       gradientUnits="userSpaceOnUse"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648"
+       gradientTransform="matrix(0.34578675,0,0,0.34986717,501.89517,372.1016)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3047"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578675,0,0,-0.02285775,501.54587,564.23228)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3065"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,-0.02206149,327.3268,704.36129)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient3067"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,0.33767943,327.66791,518.92355)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3069"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,0.5179893,327.66791,454.55201)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3814"
+       id="linearGradient3071"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.94145062,-0.54193392)"
+       x1="504.60526"
+       y1="306.39969"
+       x2="503.27383"
+       y2="402.20099" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3162"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.21484365,0,0,-0.02505264,653.23039,857.27895)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient3164"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.21484365,0,0,0.27997522,653.44742,700.00755)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3166"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.21484365,0,0,0.42947292,653.44742,646.63612)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient3168"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.27875758,0,0,0.27875758,228.87714,696.40865)"
+       x1="1851.4617"
+       y1="425.02463"
+       x2="1852.028"
+       y2="497.41641" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3814"
+       id="linearGradient3170"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.94145062,-0.54193392)"
+       x1="504.60526"
+       y1="306.39969"
+       x2="503.27383"
+       y2="402.20099" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3183"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,-0.02206149,327.3268,704.36129)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient3185"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,0.33767943,327.66791,518.92355)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3187"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,0.5179893,327.66791,454.55201)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3814"
+       id="linearGradient3189"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.94145062,-0.54193392)"
+       x1="504.60526"
+       y1="306.39969"
+       x2="503.27383"
+       y2="402.20099" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3200"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,-0.02206149,327.3268,704.36129)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient3202"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,0.33767943,327.66791,518.92355)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3204"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,0.5179893,327.66791,454.55201)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3814"
+       id="linearGradient3206"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.94145062,-0.54193392)"
+       x1="504.60526"
+       y1="306.39969"
+       x2="503.27383"
+       y2="402.20099" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3814"
+       id="linearGradient3244"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.94145062,-0.54193392)"
+       x1="504.60526"
+       y1="306.39969"
+       x2="503.27383"
+       y2="402.20099" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3814"
+       id="linearGradient3246"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.94145062,-0.54193392)"
+       x1="504.60526"
+       y1="306.39969"
+       x2="503.27383"
+       y2="402.20099" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3814"
+       id="linearGradient3250"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.32817509,0,0,0.32817509,239.77112,458.24599)"
+       x1="504.60526"
+       y1="306.39969"
+       x2="503.27383"
+       y2="402.20099" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3814"
+       id="linearGradient3270"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.94145062,-0.54193392)"
+       x1="504.60526"
+       y1="306.39969"
+       x2="503.27383"
+       y2="402.20099" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3814"
+       id="linearGradient3279"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.94145062,-0.54193392)"
+       x1="504.60526"
+       y1="306.39969"
+       x2="503.27383"
+       y2="402.20099" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3814"
+       id="linearGradient3297"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.32817509,0,0,0.32817509,239.77112,458.24599)"
+       x1="504.60526"
+       y1="306.39969"
+       x2="503.27383"
+       y2="402.20099" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3814"
+       id="linearGradient3299"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.94145062,-0.54193392)"
+       x1="504.60526"
+       y1="306.39969"
+       x2="503.27383"
+       y2="402.20099" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3303"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,0.33767943,510.32862,417.46477)"
+       x1="875.57068"
+       y1="355.66626"
+       x2="875.16016"
+       y2="409.42261" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3318"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578676,0,0,0.54432527,587.67164,405.96819)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient3321"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578676,0,0,0.35484796,587.67164,473.61255)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3324"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578676,0,0,-0.01806498,587.32234,665.81224)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3336"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,464.70413,1036.0529)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient3338"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(465.71429,0)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3340"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.5339676,465.71429,-190.62913)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient2982"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.21484365,0,0,-0.02505264,653.23039,857.27895)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient2984"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.21484365,0,0,0.27997522,653.44742,700.00755)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient2986"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.21484365,0,0,0.42947292,653.44742,646.63612)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient2989"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.27875758,0,0,0.27875758,228.87714,696.40865)"
+       x1="1851.4617"
+       y1="425.02463"
+       x2="1852.028"
+       y2="497.41641" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient2991"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.27875758,0,0,0.27875758,228.87714,696.40865)"
+       x1="1851.4617"
+       y1="425.02463"
+       x2="1852.028"
+       y2="497.41641" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4043"
+       id="linearGradient2995"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.27875758,0,0,0.27875758,-338.91868,607.76776)"
+       x1="1851.4617"
+       y1="425.02463"
+       x2="1852.028"
+       y2="497.41641" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.28011972,0,0,0.42947292,80.686633,557.99523)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient3004"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.28011972,0,0,0.27997522,80.686633,611.36666)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3007"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.28011972,0,0,-0.02505264,80.403662,768.63806)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3054"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578676,0,0,0.52471481,757.95733,315.7818)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient3057"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578676,0,0,0.34206382,757.95733,380.98913)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3060"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578676,0,0,-0.03039964,757.60803,573.02904)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <inkscape:perspective
+       id="perspective2998"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776-5"
+       id="linearGradient2985"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578672,0,0,0.51861267,668.63348,506.63148)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3776-5">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop3778-7" />
+      <stop
+         style="stop-color:#d5e5ff;stop-opacity:0"
+         offset="1"
+         id="stop3780-8" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784-2"
+       id="linearGradient2988-6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578672,0,0,0.33808581,668.63348,571.08049)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3784-2">
+      <stop
+         style="stop-color:#00002b;stop-opacity:1"
+         offset="0"
+         id="stop3786-1" />
+      <stop
+         id="stop3792-7"
+         offset="0.49905592"
+         style="stop-color:#000080;stop-opacity:1" />
+      <stop
+         style="stop-color:#d5d5ff;stop-opacity:1"
+         offset="1"
+         id="stop3788-3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798-0"
+       id="linearGradient3973-9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578672,0,0,-0.03424126,127.7471,1044.5548)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       id="linearGradient3798-0"
+       inkscape:collect="always">
+      <stop
+         id="stop3800-4"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1" />
+      <stop
+         id="stop3804-0"
+         offset="1"
+         style="stop-color:#d5d5ff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       y2="445.05115"
+       x2="357.14285"
+       y1="527.00507"
+       x1="358.21429"
+       gradientTransform="matrix(0.34578672,0,0,-0.03424126,668.28414,763.07251)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3028"
+       xlink:href="#linearGradient3798-0"
+       inkscape:collect="always" />
+    <inkscape:perspective
+       id="perspective3038"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776-0"
+       id="linearGradient2965"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578685,0,0,0.51243349,840.29711,415.94457)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3776-0">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop3778-0" />
+      <stop
+         style="stop-color:#d5e5ff;stop-opacity:0"
+         offset="1"
+         id="stop3780-9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784-28"
+       id="linearGradient2968"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578685,0,0,0.33405757,840.29711,479.62567)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3784-28">
+      <stop
+         style="stop-color:#00002b;stop-opacity:1"
+         offset="0"
+         id="stop3786-9" />
+      <stop
+         id="stop3792-2"
+         offset="0.49905592"
+         style="stop-color:#000080;stop-opacity:1" />
+      <stop
+         style="stop-color:#d5d5ff;stop-opacity:1"
+         offset="1"
+         id="stop3788-7" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798-4"
+       id="linearGradient2971"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26025581,0,0,-0.03870994,398.22214,778.58548)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       id="linearGradient3798-4"
+       inkscape:collect="always">
+      <stop
+         id="stop3800-3"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1" />
+      <stop
+         id="stop3804-9"
+         offset="1"
+         style="stop-color:#d5d5ff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       y2="445.05115"
+       x2="357.14285"
+       y1="527.00507"
+       x1="358.21429"
+       gradientTransform="matrix(0.34578685,0,0,-0.0381282,839.94781,671.56743)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3062"
+       xlink:href="#linearGradient3798-4"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3212"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578678,0,0,0.52670799,288.68968,307.97048)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient3215"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578678,0,0,0.34336318,288.68968,373.42551)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578678,0,0,-0.02914904,288.34038,565.48325)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3333"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578676,0,0,-0.03039964,710.46517,1238.7433)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient3335"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578676,0,0,0.34206382,710.81447,1046.7034)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3337"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578676,0,0,0.52471481,710.81447,981.49609)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3339"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578678,0,0,-0.02914904,241.19752,1231.1975)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient3341"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578678,0,0,0.34336318,241.54682,1039.1398)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3343"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578678,0,0,0.52670799,241.54682,973.68477)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798-4"
+       id="linearGradient3345"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578685,0,0,-0.0381282,839.94781,671.56743)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784-28"
+       id="linearGradient3347"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578685,0,0,0.33405757,840.29711,479.62567)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776-0"
+       id="linearGradient3349"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578685,0,0,0.51243349,840.29711,415.94457)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3359"
+       gradientUnits="userSpaceOnUse"
+       x1="-1018.2338"
+       y1="404.8544"
+       x2="-1018.2338"
+       y2="483.6463"
+       gradientTransform="matrix(0.33767943,0,0,0.33767943,446.86591,852.77896)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient3367"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,0.33767943,-30.002719,852.77896)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3370"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,-0.33767943,-30.343809,1202.6327)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3450"
+       id="linearGradient3396"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,0.33767943,994.00877,839.92182)"
+       x1="-1018.2338"
+       y1="404.8544"
+       x2="-1018.2338"
+       y2="483.6463" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3400"
+       id="linearGradient3398"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,0.33767943,994.00877,839.92182)"
+       x1="-1018.2338"
+       y1="404.8544"
+       x2="-1018.2338"
+       y2="483.6463" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3400"
+       id="linearGradient3448"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,0.33767943,1006.5088,886.35039)"
+       x1="-1018.2338"
+       y1="404.8544"
+       x2="-1018.2338"
+       y2="483.6463" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3450"
+       id="linearGradient3490"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,0.33767943,994.00877,839.92182)"
+       x1="-1018.2338"
+       y1="404.8544"
+       x2="-1018.2338"
+       y2="483.6463" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3450"
+       id="linearGradient3508"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,0.33767943,994.00877,839.92182)"
+       x1="-1018.2338"
+       y1="404.8544"
+       x2="-1018.2338"
+       y2="483.6463" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3516"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578675,0,0,0.5366849,454.75231,971.12102)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient3519"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578675,0,0,0.34986717,454.75231,1037.8159)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3522"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578675,0,0,-0.02285775,454.40301,1229.9466)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3450"
+       id="linearGradient3534"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,0.33767943,994.00877,839.92182)"
+       x1="-1018.2338"
+       y1="404.8544"
+       x2="-1018.2338"
+       y2="483.6463" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3450"
+       id="linearGradient3546"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,0.33767943,994.00877,839.92182)"
+       x1="-1018.2338"
+       y1="404.8544"
+       x2="-1018.2338"
+       y2="483.6463" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3450"
+       id="linearGradient3558"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,0.33767943,994.00877,839.92182)"
+       x1="-1018.2338"
+       y1="404.8544"
+       x2="-1018.2338"
+       y2="483.6463" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3565"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578676,0,0,0.54432527,956.24307,974.53962)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient3568"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578676,0,0,0.35484796,956.24307,1042.184)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3571"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578676,0,0,-0.01806498,955.89377,1234.3837)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3450"
+       id="linearGradient3583"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,0.33767943,994.00877,839.92182)"
+       x1="-1018.2338"
+       y1="404.8544"
+       x2="-1018.2338"
+       y2="483.6463" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776-0"
+       id="linearGradient3598"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578685,0,0,0.51243349,1208.8685,984.516)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784-28"
+       id="linearGradient3601"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578685,0,0,0.33405757,1208.8685,1048.1971)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798-4"
+       id="linearGradient3604"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578685,0,0,-0.0381282,1208.5192,1240.1389)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3450"
+       id="linearGradient3606"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,0.33767943,994.00877,839.92182)"
+       x1="-1018.2338"
+       y1="404.8544"
+       x2="-1018.2338"
+       y2="483.6463" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798"
+       id="linearGradient3129"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578676,0,0,-0.03039964,558.43721,1366.5276)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient3131"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578676,0,0,0.34206382,558.78651,1174.4877)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="linearGradient3133"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578676,0,0,0.52471481,558.78651,1109.2804)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3450"
+       id="linearGradient3135"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,0.33767943,994.00877,839.92182)"
+       x1="-1018.2338"
+       y1="404.8544"
+       x2="-1018.2338"
+       y2="483.6463" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3450"
+       id="linearGradient3137"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33767943,0,0,0.33767943,994.00877,839.92182)"
+       x1="-1018.2338"
+       y1="404.8544"
+       x2="-1018.2338"
+       y2="483.6463" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798-0"
+       id="linearGradient3154"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578672,0,0,-0.03424126,668.28414,763.07251)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784-2"
+       id="linearGradient3156"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578672,0,0,0.33808581,668.63348,571.08049)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776-5"
+       id="linearGradient3158"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578672,0,0,0.51861267,668.63348,506.63148)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798-0"
+       id="linearGradient3178"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578672,0,0,-0.03424126,668.28414,763.07251)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784-2"
+       id="linearGradient3180"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578672,0,0,0.33808581,668.63348,571.08049)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776-5"
+       id="linearGradient3182"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578672,0,0,0.51861267,668.63348,506.63148)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798-0"
+       id="linearGradient3196"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578672,0,0,-0.03424126,668.28414,763.07251)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784-2"
+       id="linearGradient3198"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578672,0,0,0.33808581,668.63348,571.08049)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776-5"
+       id="linearGradient3201"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578672,0,0,0.51861267,668.63348,506.63148)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776-5"
+       id="linearGradient3213"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578672,0,0,0.51861267,237.20491,1186.6315)"
+       x1="373.21429"
+       y1="350.21933"
+       x2="374.28574"
+       y2="414.88464" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784-2"
+       id="linearGradient3216"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578672,0,0,0.33808581,237.20491,1251.0805)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="348.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3798-0"
+       id="linearGradient3219"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34578672,0,0,-0.03424126,236.85557,1443.0725)"
+       x1="358.21429"
+       y1="527.00507"
+       x2="357.14285"
+       y2="445.05115" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="501.35991"
+     inkscape:cy="-305.66247"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="844"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-480.36218)">
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path3794"
+       d="m 594.41431,556.12092 88.05213,0.0104 c 17.4542,-0.17458 26.01667,-1.05257 24.57556,-2.05727 -1.66877,-1.24724 -16.87843,-1.67132 -26.42799,-1.73058 l -86.1997,-0.0166 c -16.58378,0.13583 -26.34263,0.71366 -26.79848,1.89398 -1.27179,1.22425 15.4684,1.93718 26.79848,1.90206 z"
+       style="fill:url(#linearGradient3047);fill-opacity:1;stroke:none"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/b-computador.png"
+       inkscape:export-xdpi="89.999954"
+       inkscape:export-ydpi="89.999954" />
+    <path
+       style="fill:url(#linearGradient3044);fill-opacity:1;stroke:none"
+       d="m 594.76361,496.25623 88.05212,-0.12495 c 17.4542,2.67088 26.01668,16.10982 24.57556,31.48808 -1.66877,19.09135 -16.87843,25.58247 -26.42799,26.48988 l -86.19969,0.24991 c -16.58378,-2.07975 -26.34264,-10.92405 -26.79848,-28.98894 -1.27179,-18.73982 15.46839,-29.65182 26.79848,-29.11398 z"
+       id="path2996"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/b-computador.png"
+       inkscape:export-xdpi="89.999954"
+       inkscape:export-ydpi="89.999954" />
+    <path
+       style="fill:url(#linearGradient3041);fill-opacity:1;stroke:none"
+       d="m 705.16837,528.85645 c 1.69258,-22.56656 -14.74229,-30.07451 -22.59963,-30.85088 l -89.0388,0.17892 c -8.37201,0.75073 -26.97105,10.12219 -23.21839,30.81391 47.83225,-0.40812 95.95172,0.42241 134.85682,-0.14195 z"
+       id="path3774"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/b-computador.png"
+       inkscape:export-xdpi="89.999954"
+       inkscape:export-ydpi="89.999954" />
+    <g
+       id="g3848"
+       transform="matrix(0.37479466,0,0,0.30487384,492.80594,391.32423)"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/b-computador.png"
+       inkscape:export-xdpi="89.999954"
+       inkscape:export-ydpi="89.999954">
+      <text
+         transform="scale(0.72724263,1.3750569)"
+         sodipodi:linespacing="125%"
+         id="text3806"
+         y="334.33752"
+         x="329.40045"
+         style="font-size:50.38834px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="334.33752"
+           x="329.40045"
+           id="tspan3808"
+           sodipodi:role="line">El Computador</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:48.21152721;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="314.33533"
+         y="344.8316"
+         id="text3810"
+         sodipodi:linespacing="125%"
+         transform="scale(0.75870755,1.3180309)"><tspan
+           style="font-size:48.21152721;fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           id="tspan3812"
+           x="314.33533"
+           y="344.8316">El Computador</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path3885"
+       d="m 850.47648,562.24139 88.05213,0.0111 c 17.45419,-0.23207 26.01668,-1.3997 24.57557,-2.73597 -1.6688,-1.65881 -16.87843,-2.22281 -26.428,-2.30168 l -86.1997,-0.0212 c -16.58379,0.18074 -26.34263,0.94918 -26.79848,2.51883 -1.2718,1.62825 15.46838,2.57641 26.79848,2.52971 z"
+       style="fill:url(#linearGradient3060);fill-opacity:1;stroke:none"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/uso.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#linearGradient3057);fill-opacity:1;stroke:none"
+       d="m 850.82577,502.37465 88.05214,-0.12217 c 17.45418,2.61132 26.01665,15.75052 24.57556,30.78572 -1.66878,18.66566 -16.87845,25.01204 -26.42799,25.89918 l -86.19971,0.24428 c -16.58378,-2.03339 -26.34262,-10.68034 -26.79847,-28.34246 -1.2718,-18.32177 15.46838,-28.99039 26.79847,-28.46455 z"
+       id="path3887"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/uso.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#linearGradient3054);fill-opacity:1;stroke:none"
+       d="m 961.23054,534.24779 c 1.69258,-22.06327 -14.7423,-29.40377 -22.59963,-30.16282 l -89.03881,0.17492 c -8.37201,0.734 -26.97104,9.89645 -23.21839,30.12668 47.83226,-0.39909 95.95173,0.41291 134.85683,-0.13878 z"
+       id="path3889"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/uso.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#linearGradient3218);fill-opacity:1;stroke:none"
+       d="m 381.20883,555.13932 88.05214,0.0102 c 17.45419,-0.22248 26.01667,-1.34212 24.57556,-2.62343 -1.66877,-1.59052 -16.87843,-2.13138 -26.42799,-2.20693 l -86.19971,-0.0213 c -16.58377,0.17327 -26.34263,0.91016 -26.79847,2.41518 -1.2718,1.56134 15.46839,2.47049 26.79847,2.42565 z"
+       id="path3945"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el_universo_del_computador/imagenes/png/botones/draw.png"
+       inkscape:export-xdpi="138"
+       inkscape:export-ydpi="138" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path3947"
+       d="m 381.55813,495.27212 88.05213,-0.12263 c 17.4542,2.62123 26.01668,15.81034 24.57556,30.90265 -1.66877,18.73655 -16.87843,25.107 -26.42799,25.99754 l -86.1997,0.24526 c -16.58378,-2.04109 -26.34263,-10.72097 -26.79848,-28.4501 -1.2718,-18.39142 15.46839,-29.10057 26.79848,-28.57272 z"
+       style="fill:url(#linearGradient3215);fill-opacity:1;stroke:none"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el_universo_del_computador/imagenes/png/botones/draw.png"
+       inkscape:export-xdpi="138"
+       inkscape:export-ydpi="138" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3949"
+       d="m 491.96291,527.26634 c 1.69258,-22.14709 -14.74231,-29.51547 -22.59964,-30.27741 l -89.03881,0.1756 c -8.37201,0.73677 -26.97105,9.93402 -23.21839,30.24111 47.83226,-0.40063 95.95173,0.41456 134.85684,-0.1393 z"
+       style="fill:url(#linearGradient3212);fill-opacity:1;stroke:none"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el_universo_del_computador/imagenes/png/botones/draw.png"
+       inkscape:export-xdpi="138"
+       inkscape:export-ydpi="138" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.10961533px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="413.29977"
+       y="464.06055"
+       id="text3957"
+       sodipodi:linespacing="125%"
+       transform="scale(0.87760178,1.139469)"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el_universo_del_computador/imagenes/png/botones/draw.png"
+       inkscape:export-xdpi="138"
+       inkscape:export-ydpi="138"><tspan
+         sodipodi:role="line"
+         id="tspan3959"
+         x="413.29977"
+         y="464.06055">Programa draw</tspan></text>
+    <text
+       transform="scale(0.87760178,1.139469)"
+       sodipodi:linespacing="125%"
+       id="text3961"
+       y="463.29959"
+       x="413.29974"
+       style="font-size:16.10961533px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"
+       inkscape:export-xdpi="138"
+       inkscape:export-ydpi="138"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el_universo_del_computador/imagenes/png/botones/draw.png"><tspan
+         y="463.29959"
+         x="413.29974"
+         id="tspan3963"
+         sodipodi:role="line"
+         style="fill:#ffffff;fill-opacity:1">Programa draw</tspan></text>
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path3967"
+       d="m 219.98562,1082.8031 85.98769,0.1206 c 17.04496,-2.5779 25.40669,-15.5487 23.99936,-30.3912 -1.62965,-18.4263 -16.48271,-24.6914 -25.80836,-25.5672 l -84.17869,-0.2411 c -16.19496,2.0072 -25.72497,10.5434 -26.17014,27.9791 -1.24193,18.0869 15.1057,28.6188 26.17014,28.0998 z"
+       style="fill:url(#linearGradient3973);fill-opacity:1;stroke:none" />
+    <g
+       id="g4108"
+       transform="matrix(0.33767943,0,0,0.33767943,446.86591,852.77896)">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path3969"
+         d="m -670.87043,354.86218 254.64285,-0.35714 c 50.47676,7.634 75.23907,46.04555 71.07144,90 -4.82603,54.56756 -48.81169,73.12077 -76.42859,75.71428 l -249.2857,0.71429 c -47.95956,-5.94438 -76.18173,-31.22334 -77.5,-82.85714 -3.678,-53.56258 44.73388,-84.75156 77.5,-83.21429 z"
+         style="fill:url(#linearGradient4145);fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3971"
+         d="m -351.58472,448.04107 c 4.89485,-64.5004 -42.63411,-85.95984 -65.35715,-88.17889 l -257.49628,0.5114 c -24.21149,2.14576 -77.99908,28.93155 -67.14657,88.07316 138.32878,-1.1666 277.48814,1.20732 390,-0.40567 z"
+         style="fill:url(#linearGradient4147);fill-opacity:1;stroke:none" />
+      <text
+         transform="scale(1.0240104,0.97655257)"
+         sodipodi:linespacing="125%"
+         id="text3979"
+         y="410.98267"
+         x="-687.84338"
+         style="font-size:39.06210327px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           id="tspan3985"
+           y="410.98267"
+           x="-687.84338"
+           sodipodi:role="line">Orientaciones</tspan><tspan
+           id="tspan3991"
+           y="459.8103"
+           x="-687.84338"
+           sodipodi:role="line">          y </tspan><tspan
+           id="tspan3993"
+           y="508.63794"
+           x="-687.84338"
+           sodipodi:role="line">  sugerencias</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:39.06210327px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4149);fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="-687.84338"
+         y="408.42264"
+         id="text3995"
+         sodipodi:linespacing="125%"
+         transform="scale(1.0240104,0.97655258)"><tspan
+           style="fill:url(#linearGradient4149);fill-opacity:1"
+           sodipodi:role="line"
+           x="-687.84338"
+           y="408.42264"
+           id="tspan3997">Orientaciones</tspan><tspan
+           style="fill:url(#linearGradient4149);fill-opacity:1"
+           sodipodi:role="line"
+           x="-687.84338"
+           y="457.25027"
+           id="tspan3999">          y </tspan><tspan
+           style="fill:url(#linearGradient4149);fill-opacity:1"
+           sodipodi:role="line"
+           x="-687.84338"
+           y="506.07788"
+           id="tspan4001">  sugerencias</tspan></text>
+    </g>
+    <path
+       style="fill:url(#linearGradient3370);fill-opacity:1;stroke:none"
+       d="m 60.347229,1082.8031 85.987661,0.1206 c 17.04496,-2.5779 25.40669,-15.5487 23.99936,-30.3912 -1.62965,-18.4263 -16.4827,-24.6914 -25.80836,-25.5672 l -84.178661,-0.2412 c -16.194937,2.0073 -25.724993,10.5435 -26.170156,27.9792 -1.241985,18.087 15.105718,28.6189 26.170156,28.0998 z"
+       id="path4011"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path4013"
+       d="m 60.688352,972.60862 85.987648,-0.1206 c 17.04496,2.57784 25.40668,15.54863 23.99936,30.39118 -1.62965,18.4263 -16.4827,24.6913 -25.80836,25.5671 l -84.178648,0.2412 c -16.19497,-2.0073 -25.725026,-10.5435 -26.170155,-27.9791 -1.241985,-18.08701 15.105717,-28.61889 26.170155,-28.09978 z"
+       style="fill:url(#linearGradient3367);fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.54360962px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="49.801685"
+       y="1006.4645"
+       id="text4023"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4025"
+         x="49.801685"
+         y="1006.4645">Actividades</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4027"
+       y="1005.2707"
+       x="49.801685"
+       style="font-size:16.54360962px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3359);fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"><tspan
+         y="1005.2707"
+         x="49.801685"
+         id="tspan4029"
+         sodipodi:role="line"
+         style="fill:url(#linearGradient3359);fill-opacity:1">Actividades</tspan></text>
+    <g
+       id="g3005"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/inicio/b-inicio.png"
+       inkscape:export-xdpi="138"
+       inkscape:export-ydpi="138"
+       transform="translate(-272.99372,-78.53936)">
+      <path
+         style="fill:url(#linearGradient3003);fill-opacity:1;stroke:none"
+         d="m 710.93126,848.38872 54.7084,0.009 c 10.84461,-0.19125 16.16464,-1.15356 15.26926,-2.25474 -1.03686,-1.36706 -10.48689,-1.83187 -16.42021,-1.89684 l -53.55745,-0.0179 c -10.30381,0.14892 -16.36716,0.78223 -16.65038,2.07579 -0.7902,1.34189 9.61079,2.12325 16.65038,2.08474 z"
+         id="path3933"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path3935"
+         d="m 711.14828,799.36017 54.70841,-0.1 c 10.8446,2.13733 16.16462,12.89161 15.26924,25.19777 -1.03684,15.27756 -10.48688,20.472 -16.42019,21.19812 l -53.55746,0.19998 c -10.3038,-1.66428 -16.36716,-8.74176 -16.65038,-23.19794 -0.79019,-14.9962 9.61079,-23.72834 16.65038,-23.29794 z"
+         style="fill:url(#linearGradient3000);fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3937"
+         d="m 779.74479,825.44795 c 1.05163,-18.05852 -9.15967,-24.06663 -14.04156,-24.68791 l -55.32145,0.14318 c -5.20168,0.60076 -16.7576,8.10012 -14.42601,24.6583 29.71906,-0.32661 59.61657,0.33802 83.78902,-0.11357 z"
+         style="fill:url(#linearGradient2997);fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4033"
+         y="829.61212"
+         x="709.04034"
+         style="font-size:19.06178856px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="829.61212"
+           x="709.04034"
+           id="tspan4035"
+           sodipodi:role="line">Inicio</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:19.06178856000000010px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="709.04034"
+         y="829.11932"
+         id="text4037"
+         sodipodi:linespacing="125%"><tspan
+           style="fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           id="tspan4039"
+           x="709.04034"
+           y="829.11932">Inicio</tspan></text>
+    </g>
+    <g
+       id="g2996"
+       transform="matrix(1.234425,0,0,1.2210621,-31.382735,-167.95344)"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/regresar.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="138"
+         inkscape:export-xdpi="138"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/actividades/regresar.png"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path2968"
+         d="m 155.63582,759.74783 71.33049,0.009 c 14.13953,-0.19125 21.07595,-1.15356 19.90853,-2.25474 -1.35189,-1.36706 -13.67313,-1.83187 -21.40917,-1.89684 l -69.82985,-0.0179 c -13.43442,0.14892 -21.34,0.78224 -21.70927,2.07579 -1.0303,1.3419 12.53083,2.12325 21.70927,2.08474 z"
+         style="fill:url(#linearGradient3007);fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="138"
+         inkscape:export-xdpi="138"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/actividades/regresar.png"
+         style="fill:url(#linearGradient3004);fill-opacity:1;stroke:none"
+         d="m 155.91878,710.71929 71.33051,-0.10001 c 14.13951,2.13733 21.07592,12.89161 19.90849,25.19777 -1.35186,15.27756 -13.67311,20.472 -21.40914,21.19812 l -69.82986,0.19998 c -13.43442,-1.66427 -21.34,-8.74176 -21.70927,-23.19794 -1.03028,-14.9962 12.53084,-23.72834 21.70927,-23.29794 z"
+         id="path2970"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         inkscape:export-ydpi="138"
+         inkscape:export-xdpi="138"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/actividades/regresar.png"
+         style="fill:url(#linearGradient3001);fill-opacity:1;stroke:none"
+         d="m 245.357,736.80706 c 1.37116,-18.05852 -11.94266,-24.06663 -18.30781,-24.68791 l -72.12979,0.14318 c -6.78211,0.60077 -21.84908,8.10012 -18.80909,24.65831 38.74863,-0.32661 77.72992,0.33802 109.24669,-0.11357 z"
+         id="path2972"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         transform="scale(0.96212907,1.0393616)"
+         inkscape:export-ydpi="138"
+         inkscape:export-xdpi="138"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/actividades/regresar.png"
+         xml:space="preserve"
+         style="font-size:16.44477654px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="158.44505"
+         y="711.2995"
+         id="text2974"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan2976"
+           x="158.44505"
+           y="711.2995">Regresar</tspan></text>
+      <text
+         inkscape:export-ydpi="138"
+         inkscape:export-xdpi="138"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/actividades/regresar.png"
+         sodipodi:linespacing="125%"
+         id="text2978"
+         y="738.47845"
+         x="151.24452"
+         style="font-size:15.82199955px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="738.47845"
+           x="151.24452"
+           id="tspan2980"
+           sodipodi:role="line"
+           style="font-size:15.82199955px;fill:#ffffff;fill-opacity:1">Regresar</tspan></text>
+    </g>
+    <g
+       id="g3123"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/orientaciones.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="138"
+         inkscape:export-xdpi="138"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el_universo_del_computador/imagenes/png/botones/orientaciones.png"
+         style="fill:url(#linearGradient3028);fill-opacity:1;stroke:none"
+         d="m 761.15258,750.92161 88.05215,0.012 c 17.45419,-0.2614 26.01668,-1.5767 24.57556,-3.0817 -1.66878,-1.8686 -16.87844,-2.5038 -26.42799,-2.5926 l -86.19972,-0.024 c -16.58378,0.2035 -26.3426,1.069 -26.79846,2.8371 -1.27174,1.8341 15.46837,2.9019 26.79846,2.8494 z"
+         id="path3967-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path3969-3"
+         d="m 761.50192,691.05436 88.05211,-0.12075 c 17.45419,2.58094 26.01667,15.56734 24.57556,30.4278 -1.66878,18.4484 -16.87843,24.721 -26.42799,25.5978 l -86.19968,0.2415 c -16.58378,-2.0097 -26.34264,-10.5562 -26.79848,-28.0128 -1.2718,-18.10874 15.46838,-28.65329 26.79848,-28.13355 z"
+         style="fill:url(#linearGradient2988-6);fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3971-0"
+         d="m 871.90667,722.55681 c 1.69258,-21.80667 -14.74231,-29.0618 -22.59963,-29.81202 l -89.0388,0.17289 c -8.372,0.72545 -26.97104,9.78134 -23.21839,29.77633 47.83226,-0.3944 95.95171,0.4081 134.85682,-0.1372 z"
+         style="fill:url(#linearGradient2985);fill-opacity:1;stroke:none" />
+      <text
+         transform="scale(1.0356072,0.96561708)"
+         sodipodi:linespacing="125%"
+         id="text3979-0"
+         y="731.93591"
+         x="724.13757"
+         style="font-size:13.35590267px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           id="tspan3985-0"
+           y="731.93591"
+           x="724.13757"
+           sodipodi:role="line">Orientaciones</tspan><tspan
+           id="tspan3991-3"
+           y="748.6308"
+           x="724.13757"
+           sodipodi:role="line">          y </tspan><tspan
+           id="tspan3993-9"
+           y="765.32568"
+           x="724.13757"
+           sodipodi:role="line">  sugerencias</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13.35590267000000075px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="724.13757"
+         y="731.06073"
+         id="text3995-6"
+         sodipodi:linespacing="125%"
+         transform="scale(1.0356072,0.96561708)"><tspan
+           style="fill:#4d4d4d;fill-opacity:1"
+           sodipodi:role="line"
+           x="724.13757"
+           y="731.06073"
+           id="tspan4001-6">Orientaciones</tspan></text>
+      <text
+         transform="scale(1.0356072,0.96561708)"
+         sodipodi:linespacing="125%"
+         id="text2946"
+         y="731.06073"
+         x="724.13757"
+         style="font-size:13.35590267px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           id="tspan2948"
+           y="731.06073"
+           x="724.13757"
+           sodipodi:role="line"
+           style="fill:#ffffff;fill-opacity:1" /><tspan
+           id="tspan2950"
+           y="747.75562"
+           x="724.13757"
+           sodipodi:role="line"
+           style="fill:#ffffff;fill-opacity:1">          y </tspan><tspan
+           id="tspan2952"
+           y="764.4505"
+           x="724.13757"
+           sodipodi:role="line"
+           style="fill:#ffffff;fill-opacity:1">  sugerencias</tspan></text>
+    </g>
+    <g
+       id="g3197">
+      <path
+         inkscape:export-ydpi="89.999954"
+         inkscape:export-xdpi="89.999954"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/internet.png"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path3909"
+         d="m 932.81629,658.03717 88.05211,0.0136 c 17.4543,-0.29107 26.0167,-1.75563 24.5755,-3.43153 -1.6687,-2.08057 -16.8783,-2.78798 -26.4279,-2.88686 l -86.19971,-0.0272 c -16.58379,0.22665 -26.34264,1.19048 -26.79849,3.15919 -1.2718,2.04225 15.46839,3.23142 26.79849,3.17281 z"
+         style="fill:url(#linearGradient3062);fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="89.999954"
+         inkscape:export-xdpi="89.999954"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/internet.png"
+         style="fill:url(#linearGradient2968);fill-opacity:1;stroke:none"
+         d="m 933.16558,598.17007 88.05212,-0.11931 c 17.4543,2.5502 26.0167,15.38187 24.5755,30.06518 -1.6687,18.22871 -16.8783,24.42655 -26.4279,25.29293 l -86.19972,0.23861 c -16.58378,-1.98576 -26.34263,-10.43039 -26.79848,-27.67905 -1.2718,-17.89298 15.46839,-28.3119 26.79848,-27.79836 z"
+         id="path3911"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         inkscape:export-ydpi="89.999954"
+         inkscape:export-xdpi="89.999954"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/internet.png"
+         style="fill:url(#linearGradient2965);fill-opacity:1;stroke:none"
+         d="m 1043.5704,629.29718 c 1.6926,-21.54685 -14.7423,-28.71553 -22.5997,-29.45682 l -89.03879,0.17083 c -8.37202,0.71681 -26.97105,9.66481 -23.2184,29.42151 47.83228,-0.38971 95.95179,0.40332 134.85689,-0.13552 z"
+         id="path3913"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         id="g3187"
+         transform="matrix(0.37479466,0,0,0.30487384,852.19689,493.34964)"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/internet.png"
+         inkscape:export-xdpi="89.999954"
+         inkscape:export-ydpi="89.999954">
+        <text
+           transform="scale(0.72724263,1.3750569)"
+           sodipodi:linespacing="125%"
+           id="text3189"
+           y="334.33752"
+           x="329.40045"
+           style="font-size:50.38834px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           xml:space="preserve"><tspan
+             y="334.33752"
+             x="329.40045"
+             id="tspan3191"
+             sodipodi:role="line">Internet</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:48.21152878px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           x="314.33533"
+           y="344.8316"
+           id="text3193"
+           sodipodi:linespacing="125%"
+           transform="scale(0.75870755,1.3180309)"><tspan
+             style="font-size:48.21152878px;fill:#ffffff;fill-opacity:1"
+             sodipodi:role="line"
+             id="tspan3195"
+             x="314.33533"
+             y="344.8316">Internet</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3228"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/partes.png"
+       inkscape:export-xdpi="90.000412"
+       inkscape:export-ydpi="90.000412">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/partes.png"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path3828"
+         d="m 680.19079,659.40166 88.05213,0.006 c 17.45419,-0.13791 26.01668,-0.83181 24.57557,-1.62584 -1.6688,-0.98577 -16.87843,-1.32093 -26.428,-1.36779 l -86.1997,-0.0129 c -16.58379,0.10739 -26.34263,0.56405 -26.79848,1.49681 -1.2718,0.96762 15.46838,1.53104 26.79848,1.50328 z"
+         style="fill:url(#linearGradient3324);fill-opacity:1;stroke:none" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/partes.png"
+         style="fill:url(#linearGradient3321);fill-opacity:1;stroke:none"
+         d="m 680.54008,599.53467 88.05214,-0.12673 c 17.45418,2.70891 26.01665,16.33918 24.57556,31.93632 -1.66878,19.36318 -16.87845,25.94676 -26.42799,26.86706 l -86.19971,0.25346 c -16.58378,-2.10935 -26.34262,-11.07954 -26.79847,-29.40169 -1.2718,-19.00657 15.46838,-30.07391 26.79847,-29.52842 z"
+         id="path3830"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/partes.png"
+         style="fill:url(#linearGradient3318);fill-opacity:1;stroke:none"
+         d="m 790.94485,632.59901 c 1.69258,-22.88784 -14.7423,-30.50267 -22.59963,-31.2901 l -89.03881,0.18147 c -8.37201,0.76142 -26.97104,10.26631 -23.21839,31.25258 47.83226,-0.41396 95.95173,0.42842 134.85683,-0.14395 z"
+         id="path3832"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-size:16.10961533px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="791.59766"
+         y="558.03076"
+         id="text3220"
+         sodipodi:linespacing="125%"
+         transform="scale(0.87760177,1.139469)"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el_universo_del_computador/imagenes/png/botones/draw.png"
+         inkscape:export-xdpi="138"
+         inkscape:export-ydpi="138"><tspan
+           sodipodi:role="line"
+           id="tspan3222"
+           x="791.59766"
+           y="558.03076">Partes</tspan></text>
+      <text
+         transform="scale(0.87760177,1.139469)"
+         sodipodi:linespacing="125%"
+         id="text3224"
+         y="557.26984"
+         x="791.59766"
+         style="font-size:16.10961533px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"
+         inkscape:export-xdpi="138"
+         inkscape:export-ydpi="138"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el_universo_del_computador/imagenes/png/botones/draw.png"><tspan
+           y="557.26984"
+           x="791.59766"
+           id="tspan3226"
+           sodipodi:role="line"
+           style="fill:#ffffff;fill-opacity:1">Partes</tspan></text>
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/uso.png"
+       transform="matrix(0.37479466,0,0,0.30487384,787.88976,400.4156)"
+       id="g3237">
+      <text
+         xml:space="preserve"
+         style="font-size:50.38834px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="329.40045"
+         y="334.33752"
+         id="text3239"
+         sodipodi:linespacing="125%"
+         transform="scale(0.72724263,1.3750569)"><tspan
+           sodipodi:role="line"
+           id="tspan3241"
+           x="329.40045"
+           y="334.33752">Uso</tspan></text>
+      <text
+         transform="scale(0.75870755,1.3180309)"
+         sodipodi:linespacing="125%"
+         id="text3243"
+         y="344.8316"
+         x="314.33533"
+         style="font-size:48.21152878px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="344.8316"
+           x="314.33533"
+           id="tspan3245"
+           sodipodi:role="line"
+           style="font-size:48.21152878px;fill:#ffffff;fill-opacity:1">Uso</tspan></text>
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/uso.png"
+       style="fill:url(#linearGradient3333);fill-opacity:1;stroke:none"
+       d="m 803.33362,1227.9557 88.05213,0.011 c 17.45419,-0.2321 26.01668,-1.3997 24.57557,-2.736 -1.6688,-1.6588 -16.87843,-2.2228 -26.428,-2.3017 l -86.1997,-0.021 c -16.58379,0.1808 -26.34263,0.9492 -26.79848,2.5189 -1.2718,1.6282 15.46838,2.5764 26.79848,2.5297 z"
+       id="path3263"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/uso.png"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path3265"
+       d="m 803.68291,1168.0889 88.05214,-0.1221 c 17.45418,2.6113 26.01665,15.7505 24.57556,30.7857 -1.66878,18.6656 -16.87845,25.012 -26.42799,25.8992 l -86.19971,0.2442 c -16.58378,-2.0333 -26.34262,-10.6803 -26.79847,-28.3424 -1.2718,-18.3218 15.46838,-28.9904 26.79847,-28.4646 z"
+       style="fill:url(#linearGradient3335);fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/uso.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3267"
+       d="m 914.08768,1199.9621 c 1.69258,-22.0633 -14.7423,-29.4038 -22.59963,-30.1628 l -89.03881,0.1749 c -8.37201,0.734 -26.97104,9.8964 -23.21839,30.1267 47.83226,-0.3991 95.95173,0.4129 134.85683,-0.1388 z"
+       style="fill:url(#linearGradient3337);fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90.000298"
+       inkscape:export-xdpi="90.000298"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/draw.png"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path3269"
+       d="m 334.06597,1220.8536 88.05214,0.01 c 17.45419,-0.2225 26.01667,-1.3421 24.57556,-2.6234 -1.66877,-1.5905 -16.87843,-2.1314 -26.42799,-2.207 l -86.19971,-0.021 c -16.58377,0.1733 -26.34263,0.9102 -26.79847,2.4152 -1.2718,1.5614 15.46839,2.4705 26.79847,2.4257 z"
+       style="fill:url(#linearGradient3339);fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90.000298"
+       inkscape:export-xdpi="90.000298"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/draw.png"
+       style="fill:url(#linearGradient3341);fill-opacity:1;stroke:none"
+       d="m 334.41527,1160.9864 88.05213,-0.1226 c 17.4542,2.6212 26.01668,15.8103 24.57556,30.9026 -1.66877,18.7366 -16.87843,25.107 -26.42799,25.9976 l -86.1997,0.2452 c -16.58378,-2.0411 -26.34263,-10.7209 -26.79848,-28.4501 -1.2718,-18.3914 15.46839,-29.1005 26.79848,-28.5727 z"
+       id="path3271"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       inkscape:export-ydpi="90.000298"
+       inkscape:export-xdpi="90.000298"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/draw.png"
+       style="fill:url(#linearGradient3343);fill-opacity:1;stroke:none"
+       d="m 444.82005,1192.9806 c 1.69258,-22.1471 -14.74231,-29.5154 -22.59964,-30.2774 l -89.03881,0.1756 c -8.37201,0.7368 -26.97105,9.934 -23.21839,30.2411 47.83226,-0.4006 95.95173,0.4146 134.85684,-0.1393 z"
+       id="path3273"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:export-ydpi="89.999397"
+       inkscape:export-xdpi="89.999397"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/internet.png"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path3285"
+       d="m 1301.3877,1226.6086 88.0521,0.014 c 17.4543,-0.2911 26.0167,-1.7556 24.5755,-3.4315 -1.6687,-2.0806 -16.8783,-2.788 -26.4279,-2.8869 l -86.1997,-0.027 c -16.5838,0.2267 -26.3426,1.1905 -26.7985,3.1592 -1.2718,2.0423 15.4684,3.2314 26.7985,3.1728 z"
+       style="fill:url(#linearGradient3604);fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="89.999397"
+       inkscape:export-xdpi="89.999397"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/internet.png"
+       style="fill:url(#linearGradient3601);fill-opacity:1;stroke:none"
+       d="m 1301.737,1166.7415 88.0521,-0.1193 c 17.4543,2.5502 26.0167,15.3819 24.5755,30.0652 -1.6687,18.2287 -16.8783,24.4265 -26.4279,25.2929 l -86.1997,0.2386 c -16.5838,-1.9857 -26.3426,-10.4304 -26.7985,-27.679 -1.2718,-17.893 15.4684,-28.3119 26.7985,-27.7984 z"
+       id="path3287"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       inkscape:export-ydpi="89.999397"
+       inkscape:export-xdpi="89.999397"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/internet.png"
+       style="fill:url(#linearGradient3598);fill-opacity:1;stroke:none"
+       d="m 1412.1418,1197.8686 c 1.6926,-21.5468 -14.7423,-28.7155 -22.5997,-29.4568 l -89.0388,0.1708 c -8.372,0.7168 -26.971,9.6648 -23.2184,29.4215 47.8323,-0.3897 95.9518,0.4034 134.8569,-0.1355 z"
+       id="path3289"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/partes.png"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path3303"
+       d="m 1048.7622,1227.9731 88.0522,0.01 c 17.4541,-0.1379 26.0166,-0.8318 24.5755,-1.6259 -1.6688,-0.9857 -16.8784,-1.3209 -26.428,-1.3677 l -86.1997,-0.013 c -16.5838,0.1073 -26.3426,0.564 -26.7985,1.4968 -1.2718,0.9676 15.4684,1.531 26.7985,1.5033 z"
+       style="fill:url(#linearGradient3571);fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/partes.png"
+       style="fill:url(#linearGradient3568);fill-opacity:1;stroke:none"
+       d="m 1049.1115,1168.1061 88.0522,-0.1267 c 17.4541,2.7089 26.0166,16.3392 24.5755,31.9363 -1.6688,19.3632 -16.8784,25.9468 -26.428,26.8671 l -86.1997,0.2534 c -16.5838,-2.1093 -26.3426,-11.0795 -26.7985,-29.4017 -1.2718,-19.0065 15.4684,-30.0739 26.7985,-29.5284 z"
+       id="path3305"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/partes.png"
+       style="fill:url(#linearGradient3565);fill-opacity:1;stroke:none"
+       d="m 1159.5163,1201.1704 c 1.6926,-22.8878 -14.7423,-30.5026 -22.5997,-31.2901 l -89.0388,0.1815 c -8.372,0.7614 -26.971,10.2663 -23.2184,31.2526 47.8323,-0.414 95.9518,0.4284 134.8569,-0.144 z"
+       id="path3307"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3372"
+       y="1006.4645"
+       x="49.801685"
+       style="font-size:16.54360962px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"><tspan
+         y="1006.4645"
+         x="49.801685"
+         id="tspan3374"
+         sodipodi:role="line">Actividades</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.54360962px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3359);fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="49.801685"
+       y="1005.2707"
+       id="text3376"
+       sodipodi:linespacing="125%"><tspan
+         style="fill:url(#linearGradient3359);fill-opacity:1"
+         sodipodi:role="line"
+         id="tspan3378"
+         x="49.801685"
+         y="1005.2707">Actividades</tspan></text>
+    <path
+       inkscape:export-ydpi="89.999954"
+       inkscape:export-xdpi="89.999954"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/b-computador.png"
+       style="fill:url(#linearGradient3522);fill-opacity:1;stroke:none"
+       d="m 547.27145,1221.8352 88.05213,0.01 c 17.4542,-0.1746 26.01667,-1.0526 24.57556,-2.0573 -1.66877,-1.2472 -16.87843,-1.6713 -26.42799,-1.7305 l -86.1997,-0.017 c -16.58378,0.1358 -26.34263,0.7136 -26.79848,1.8939 -1.27179,1.2243 15.4684,1.9372 26.79848,1.9021 z"
+       id="path3247"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       inkscape:export-ydpi="89.999954"
+       inkscape:export-xdpi="89.999954"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/b-computador.png"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path3249"
+       d="m 547.62075,1161.9705 88.05212,-0.1249 c 17.4542,2.6708 26.01668,16.1098 24.57556,31.488 -1.66877,19.0914 -16.87843,25.5825 -26.42799,26.4899 l -86.19969,0.2499 c -16.58378,-2.0797 -26.34264,-10.924 -26.79848,-28.9889 -1.27179,-18.7398 15.46839,-29.6518 26.79848,-29.114 z"
+       style="fill:url(#linearGradient3519);fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="89.999954"
+       inkscape:export-xdpi="89.999954"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/b-computador.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3251"
+       d="m 658.02551,1194.5707 c 1.69258,-22.5665 -14.74229,-30.0745 -22.59963,-30.8508 l -89.0388,0.1789 c -8.37201,0.7507 -26.97105,10.1222 -23.21839,30.8139 47.83225,-0.4081 95.95172,0.4224 134.85682,-0.142 z"
+       style="fill:url(#linearGradient3516);fill-opacity:1;stroke:none" />
+    <g
+       id="g3484"
+       transform="translate(-72.285715,202.85715)">
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="596.94452"
+         y="993.60736"
+         id="text3380"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3382"
+           x="596.94452"
+           y="993.60736">El computador</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3384"
+         y="992.41357"
+         x="596.94452"
+         style="font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3508);fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="992.41357"
+           x="596.94452"
+           id="tspan3386"
+           sodipodi:role="line"
+           style="font-size:16px;fill:url(#linearGradient3508);fill-opacity:1">El computador</tspan></text>
+    </g>
+    <g
+       transform="translate(-284.45836,201.847)"
+       id="g3524"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/draw.png"
+       inkscape:export-xdpi="90.000298"
+       inkscape:export-ydpi="90.000298">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3526"
+         y="993.60736"
+         x="596.94452"
+         style="font-size:15px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="993.60736"
+           x="596.94452"
+           id="tspan3528"
+           sodipodi:role="line">Programa draw</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:15px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3534);fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="596.94452"
+         y="992.41357"
+         id="text3530"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:15px;fill:url(#linearGradient3534);fill-opacity:1"
+           sodipodi:role="line"
+           id="tspan3532"
+           x="596.94452"
+           y="992.41357">Programa draw</tspan></text>
+    </g>
+    <g
+       transform="translate(230.76005,209.92822)"
+       id="g3536"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/uso.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3538"
+         y="993.60736"
+         x="596.94452"
+         style="font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="993.60736"
+           x="596.94452"
+           id="tspan3540"
+           sodipodi:role="line">Uso</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3546);fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="596.94452"
+         y="992.41357"
+         id="text3542"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:16px;fill:url(#linearGradient3546);fill-opacity:1"
+           sodipodi:role="line"
+           id="tspan3544"
+           x="596.94452"
+           y="992.41357">Uso</tspan></text>
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/partes.png"
+       id="g3548"
+       transform="translate(464.61037,210.93837)">
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="596.94452"
+         y="993.60736"
+         id="text3550"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3552"
+           x="596.94452"
+           y="993.60736">Partes</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3554"
+         y="992.41357"
+         x="596.94452"
+         style="font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3558);fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="992.41357"
+           x="596.94452"
+           id="tspan3556"
+           sodipodi:role="line"
+           style="font-size:16px;fill:url(#linearGradient3558);fill-opacity:1">Partes</tspan></text>
+    </g>
+    <g
+       id="g3585"
+       transform="translate(-22.728432,-51.012703)"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/internet.png"
+       inkscape:export-xdpi="89.999397"
+       inkscape:export-ydpi="89.999397">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/uso.png"
+         id="g3573"
+         transform="translate(734.3211,259.93077)">
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           x="596.94452"
+           y="993.60736"
+           id="text3575"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3577"
+             x="596.94452"
+             y="993.60736">Internet</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3579"
+           y="992.41357"
+           x="596.94452"
+           style="font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3606);fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           xml:space="preserve"><tspan
+             y="992.41357"
+             x="596.94452"
+             id="tspan3581"
+             sodipodi:role="line"
+             style="font-size:16px;fill:url(#linearGradient3606);fill-opacity:1">Internet</tspan></text>
+      </g>
+    </g>
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path3113"
+       d="m 651.30566,1355.74 88.05213,0.011 c 17.45419,-0.2321 26.01668,-1.3997 24.57557,-2.736 -1.6688,-1.6588 -16.87843,-2.2228 -26.428,-2.3017 l -86.1997,-0.021 c -16.58379,0.1808 -26.34263,0.9492 -26.79848,2.5189 -1.2718,1.6282 15.46838,2.5764 26.79848,2.5297 z"
+       style="fill:url(#linearGradient3129);fill-opacity:1;stroke:none"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#linearGradient3131);fill-opacity:1;stroke:none"
+       d="m 651.65495,1295.8732 88.05214,-0.1221 c 17.45418,2.6113 26.01665,15.7505 24.57556,30.7857 -1.66878,18.6656 -16.87845,25.012 -26.42799,25.8992 l -86.19971,0.2442 c -16.58378,-2.0333 -26.34262,-10.6803 -26.79847,-28.3424 -1.2718,-18.3218 15.46838,-28.9904 26.79847,-28.4646 z"
+       id="path3115"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:url(#linearGradient3133);fill-opacity:1;stroke:none"
+       d="m 762.05972,1327.7464 c 1.69258,-22.0633 -14.7423,-29.4038 -22.59963,-30.1628 l -89.03881,0.1749 c -8.37201,0.734 -26.97104,9.8964 -23.21839,30.1267 47.83226,-0.3991 95.95173,0.4129 134.85683,-0.1388 z"
+       id="path3117"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/menu.png"
+       id="g3119"
+       transform="translate(72.732093,337.71252)">
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="596.94452"
+         y="993.60736"
+         id="text3121"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3123"
+           x="596.94452"
+           y="993.60736">Menú</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3125"
+         y="992.41357"
+         x="596.94452"
+         style="font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3137);fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="992.41357"
+           x="596.94452"
+           id="tspan3127"
+           sodipodi:role="line"
+           style="font-size:16px;fill:url(#linearGradient3137);fill-opacity:1">Menú</tspan></text>
+    </g>
+    <g
+       id="g3239">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path3128"
+         d="m 329.72401,1430.9216 88.05215,0.012 c 17.45419,-0.2614 26.01668,-1.5767 24.57556,-3.0817 -1.66878,-1.8686 -16.87844,-2.5038 -26.42799,-2.5926 l -86.19972,-0.024 c -16.58378,0.2035 -26.3426,1.069 -26.79846,2.8371 -1.27174,1.8341 15.46837,2.9019 26.79846,2.8494 z"
+         style="fill:url(#linearGradient3219);fill-opacity:1;stroke:none"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/draw.png"
+         inkscape:export-xdpi="138"
+         inkscape:export-ydpi="138" />
+      <path
+         inkscape:export-ydpi="138"
+         inkscape:export-xdpi="138"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/draw.png"
+         style="fill:url(#linearGradient3216);fill-opacity:1;stroke:none"
+         d="m 330.07335,1371.0543 88.05211,-0.1207 c 17.45419,2.5809 26.01667,15.5673 24.57556,30.4278 -1.66878,18.4484 -16.87843,24.721 -26.42799,25.5978 l -86.19968,0.2415 c -16.58378,-2.0097 -26.34264,-10.5562 -26.79848,-28.0128 -1.2718,-18.1087 15.46838,-28.6533 26.79848,-28.1336 z"
+         id="path3130"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         inkscape:export-ydpi="138"
+         inkscape:export-xdpi="138"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/draw.png"
+         style="fill:url(#linearGradient3213);fill-opacity:1;stroke:none"
+         d="m 440.4781,1402.5568 c 1.69258,-21.8067 -14.74231,-29.0618 -22.59963,-29.812 l -89.0388,0.1729 c -8.372,0.7254 -26.97104,9.7813 -23.21839,29.7763 47.83226,-0.3944 95.95171,0.4081 134.85682,-0.1372 z"
+         id="path3132"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         inkscape:export-ydpi="138"
+         inkscape:export-xdpi="138"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/draw.png"
+         xml:space="preserve"
+         style="font-size:13.35590267px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="309.47403"
+         y="1444.4335"
+         id="text3134"
+         sodipodi:linespacing="125%"
+         transform="scale(1.0356072,0.96561708)"><tspan
+           sodipodi:role="line"
+           x="309.47403"
+           y="1444.4335"
+           id="tspan3136" /><tspan
+           sodipodi:role="line"
+           x="309.47403"
+           y="1461.1283"
+           id="tspan3140">software libre</tspan></text>
+      <text
+         inkscape:export-ydpi="138"
+         inkscape:export-xdpi="138"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/draw.png"
+         xml:space="preserve"
+         style="font-size:13.35590267px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="313.9158"
+         y="1443.9725"
+         id="text3235"
+         sodipodi:linespacing="125%"
+         transform="scale(1.0356072,0.96561708)"><tspan
+           style="fill:#000000;fill-opacity:1"
+           sodipodi:role="line"
+           x="313.9158"
+           y="1443.9725"
+           id="tspan3237">Aplicaciones</tspan></text>
+      <text
+         inkscape:export-ydpi="138"
+         inkscape:export-xdpi="138"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/draw.png"
+         transform="scale(1.0356072,0.96561708)"
+         sodipodi:linespacing="125%"
+         id="text3142"
+         y="1443.5582"
+         x="315.26776"
+         style="font-size:13.35590267px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           id="tspan3144"
+           y="1443.5582"
+           x="315.26776"
+           sodipodi:role="line"
+           style="fill:#ffffff;fill-opacity:1">Aplicaciones</tspan></text>
+      <text
+         inkscape:export-ydpi="138"
+         inkscape:export-xdpi="138"
+         inkscape:export-filename="/usr/share/contenido-educativo/contenidos/estudiantes/infografias/cuarto/1-adecuaciones-jenshin/el-universo-del-computador/imagenes/png/botones/draw.png"
+         xml:space="preserve"
+         style="font-size:13.35590267px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         x="309.47403"
+         y="1443.5582"
+         id="text3146"
+         sodipodi:linespacing="125%"
+         transform="scale(1.0356072,0.96561708)"><tspan
+           style="fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           x="309.47403"
+           y="1443.5582"
+           id="tspan3148" /><tspan
+           style="fill:#ffffff;fill-opacity:1"
+           sodipodi:role="line"
+           x="309.47403"
+           y="1460.2531"
+           id="tspan3152">software libre</tspan></text>
+    </g>
+  </g>
+</svg>
