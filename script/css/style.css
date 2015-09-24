@@ -149,7 +149,72 @@ html{
 	top: 150px;
 	z-index: 210;
 }
+.orientaciones--btn{
+	position: absolute;
+	z-index:70;
+	width: 140px;
+	height: 60px;
+	top:650px;
+	left:935px;
+}
+.orientaciones--msg{
+	position: absolute;
+	left: 146px;
+	top: 100px;
+	z-index: 210;
+}
 
+.orientaciones--btn1{
+	border: 1px solid red;
+	position: absolute;
+	top: 235px;
+	left: 180px;
+	z-index: 210;
+	cursor:pointer;
+}
+.orientaciones--btn1--msg{
+	position:absolute;
+	left: 550px;
+	top: 200px;
+	z-index: 260;
+}
+.orientaciones--btn2{
+	border: 1px solid red;
+	position: absolute;
+	top: 293px;
+	left: 180px;
+	z-index: 210;
+	cursor:pointer;
+}
+.orientaciones--btn2--msg{
+	position: absolute;
+	left: 550px;
+	top: 200px;
+	z-index: 290;
+}
+.orientaciones--btn3{
+	border: 1px solid red;
+	position: absolute;
+	top: 355px;
+	left: 180px;
+	z-index: 210;
+	cursor:pointer;
+}
+.orientaciones--btn3--msg{
+	position: absolute;
+	left: 550px;
+	top: 200px;
+	z-index: 290;
+}
+
+.actividades--btn{
+	position: absolute;
+	z-index:70;
+	width: 140px;
+	height: 60px;
+	top:650px;
+	left:1100px;
+}
 
 .ei-slider{
 	position: relative;

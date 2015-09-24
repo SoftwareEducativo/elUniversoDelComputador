@@ -21,7 +21,6 @@ $("#partes--btn").mouseleave(function(){
 	$("#partes--msg").fadeOut(1000);
 })
 
-
 // teclado
 $("#partes--btn--teclado").mouseenter(function(){
 	$("#partes--msg--teclado").fadeIn();
@@ -54,10 +53,6 @@ $("#partes--btn--caja").mouseleave(function(){
 	$("#partes--msg--caja").fadeOut();
 })
 
-$("#").mouseenter(function(){})
-$("#").mouseenter(function(){})
-$("#").mouseenter(function(){})
-
 // Uso
 $("#uso--btn").mouseenter(function(){
 	$("#uso--msg").fadeIn(1000);
@@ -82,5 +77,32 @@ $("#internet--btn").mouseleave(function(){
 	$("#internet--msg").fadeOut("fast");
 })
 
+// orientaciones
+$("#orientaciones--btn").mouseenter(function(){
+	$("#orientaciones--msg").fadeIn(1000);
+})
+$("#orientaciones--btn").mouseleave(function(){
+	$("#orientaciones--msg").fadeOut("fast");
+})
+
+// Orientaciones
+$("#orientaciones--btn1").mouseenter(function(){
+	$("#orientaciones--btn1--msg").fadeIn(1000);
+})
+$("#orientaciones--btn1").mouseleave(function(){
+	$("#orientaciones--btn1--msg").fadeOut("fast");
+})
+$("#orientaciones--btn2").mouseenter(function(){
+	$("#orientaciones--btn2--msg").fadeIn(1000);
+})
+$("#orientaciones--btn2").mouseleave(function(){
+	$("#orientaciones--btn2--msg").fadeOut("fast");
+})
+$("#orientaciones--btn3").mouseenter(function(){
+	$("#orientaciones--btn3--msg").fadeIn(1000);
+})
+$("#orientaciones--btn3").mouseleave(function(){
+	$("#orientaciones--btn3--msg").fadeOut("fast");
+})
 
 });
