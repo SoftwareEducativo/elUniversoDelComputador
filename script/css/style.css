@@ -48,12 +48,11 @@ html{
 }
 .partes--msg{
 	position: absolute;
-	left: 155px;
-	top: 163px;
-	z-index: 200;
+	left: 146px;
+	top: 150px;
+	z-index: 210;
 }
 .partes--btn--teclado{
-	border: 1px solid red;
 	position: absolute;
 	top: 322px;
 	left: 165px;
@@ -67,7 +66,6 @@ html{
 	cursor:pointer;
 }
 .partes--btn--monitor{
-	border: 1px solid red;
 	position: absolute;
 	top: 380px;
 	left: 180px;
@@ -80,6 +78,76 @@ html{
 	top: 320px;
 	z-index: 200;
 	cursor:pointer;
+}
+.partes--btn--raton{
+	position: absolute;
+	left: 175px;
+	top: 435px;
+	z-index: 210;
+	cursor:pointer;
+}
+.partes--msg--raton{
+	position: absolute;
+	left: 270px;
+	top: 420px;
+	z-index: 200;
+	cursor:pointer;
+}
+.partes--btn--caja{
+	position: absolute;
+	left: 180px;
+	top: 490px;
+	z-index: 210;
+	cursor:pointer;
+}
+.partes--msg--caja{
+	position: absolute;
+	left: 240px;
+	top: 370px;
+	z-index: 200;
+	cursor:pointer;
+}
+.uso--btn{
+	position: absolute;
+	z-index: 70;
+	width: 140px;
+	height: 60px;
+	top: 650px;
+	left: 397px;
+}
+.uso--msg{
+	position: absolute;
+	left: 146px;
+	top: 150px;
+	z-index: 210;
+}
+.aplicaciones--btn{
+	position: absolute;
+	z-index: 70;
+	width: 140px;
+	height: 60px;
+	top:650px;
+	left:545px;
+}
+.aplicaciones--msg{
+	position: absolute;
+	left: 146px;
+	top: 150px;
+	z-index: 210;
+}
+.internet--btn{
+	position: absolute;
+	z-index:70;
+	width: 140px;
+	height: 60px;
+	top:650px;
+	left:692px;
+}
+.internet--msg{
+	position: absolute;
+	left: 146px;
+	top: 150px;
+	z-index: 210;
 }
 
 

@@ -1,76 +1,58 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-	<head>
-		<title>El universo del computador: Menú</title>
-		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-		<link rel="stylesheet" type="text/css" href="../script/css/style.css" />
-		<noscript>
-		<link rel="stylesheet" type="text/css" href="../script/css/noscript.css"/>
-		</noscript>
-	  	<script type="text/javascript" src="../script/js/jquery.min.js"></script>
-		<script type="text/javascript" src="../script/js/jquery.eislideshow.js"></script>
-		<script type="text/javascript" src="../script/js/jquery.easing.1.3.js"></script>
-		<script type="text/javascript" src="../script/js/ocultar-boton.js"></script>
-		<link href="../script/css/ppgallery.css" rel="stylesheet" type="text/css" />
-		<link href="../script/css/jquery-ui-1.8.6.custom.css" rel="stylesheet" type="text/css" />
-		<script type="text/javascript" src="../script/js/jquery-1.4.3.js"></script> 
-	  	<script type="text/javascript" src="../script/js/jquery.innerfade.js"></script>
-	  	<script type="text/javascript" src="../script/js/jquery-ui.min.js"></script>
-	 	<script type="text/javascript" src="../script/js/ga.js"></script>  
-	</head>
-	<body>
-		
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>El universo del computador: Menú</title>
+	<link rel="stylesheet" href="../script/css/style.css">
+	<script src="../script/js/jquery.js"></script>
+	<script type="text/javascript" src="../script/js/js.js"></script>
+</head>
+<body>
+	<!-- Bombillo -->
+	<img src="../imagenes/png/bombillo.png" class="bombillo" id="bombillo">
+	<img src="../imagenes/png/bombillo-texto.png"  class="oculta rojo bombillo--msg" id="bombillo--msg">
+	<!-- fin Bombillo -->
+	
+	<!-- El computador -->
+	<img src="../imagenes/png/b-computador.png" class="computador--btn" id="computador--btn">
+	<img src="../imagenes/png/computador.png" style=" " class="oculta computador--msg" id="computador--msg">
 
-		<!-- Bombillo -->
-		<img src="../imagenes/png/bombillo.png" class="bombillo" id="bombillo">
+	<!-- Partes del computador -->
+	<img src="../imagenes/png/partes.png" alt="boton partes" class="partes--btn" id="partes--btn">
+	<img src="../imagenes/png/partes-m.png" class="partes--msg oculta" id="partes--msg"/>
 
-		<img src="../imagenes/png/bombillo-texto.png"  class="oculta rojo bombillo--msg" id="bombillo--msg">
-		<!-- fin Bombillo -->
+	<!-- teclado -->
+	<img src="../imagenes/png/teclado-t.png" class="partes--btn--teclado" id="partes--btn--teclado" alt="">
+	<img src="../imagenes/png/teclado.png" class="partes--msg--teclado oculta" id="partes--msg--teclado">
 
+	<!-- Monitor -->
+	<img src="../imagenes/png/monitor-t.png" class="partes--btn--monitor" id="partes--btn--monitor">
+	<img src="../imagenes/png/monitor.png" class="partes--msg--monitor oculta" id="partes--msg--monitor">
 
-		<!-- El computador -->
-		<img src="../imagenes/png/b-computador.png" class="computador--btn" id="computador--btn">
+	<!-- Raton -->
+	<img src="../imagenes/png/raton-t.png" class="partes--btn--raton" id="partes--btn--raton">
+	<img src="../imagenes/png/raton.png"  class="partes--msg--raton oculta" id="partes--msg--raton">
+	
+	<!-- Caja -->
+	<img src="../imagenes/png/caja-t.png" class="partes--btn--caja" id="partes--btn--caja">
+	<img src="../imagenes/png/caja.png"  class="partes--msg--caja oculta" id="partes--msg--caja">
 
-		<img src="../imagenes/png/computador.png" style=" " class="oculta computador--msg" id="computador--msg">
-
-		<!-- Partes del computador -->
-
-		<img src="../imagenes/png/partes.png" alt="boton partes" class="partes--btn" id="partes--btn">
-
-		<img src="../imagenes/png/partes-m.png" class="partes--msg" id="partes--msg"/>
-
-		<!-- teclado -->
-		<img src="../imagenes/png/teclado-t.png" class="partes--btn--teclado" id="partes--btn--teclado" alt="">
-		<img src="../imagenes/png/teclado.png" style="" class="partes--msg--teclado oculta" id="partes--msg--teclado">
-
-		<!-- Monitor -->
-		<img src="../imagenes/png/monitor-t.png" style="" class="partes--btn--monitor" id="partes--btn--monitor">
-		<img src="../imagenes/png/monitor.png" style="" class="partes--msg--monitor oculta" id="partes--msg--monitor">
+	 <!-- Uso -->
+	<img src="../imagenes/png/uso.png"  class="uso--btn" id="uso--btn">
+	<img src="../imagenes/png/usos.png" class="uso--msg oculta" id="uso--msg">
 
 
-		<img src="../imagenes/png/raton-t.png" style="position:absolute; left: 55px; top: 275px; z-index: 210; cursor:pointer;" class="oculta nivel" id="transpa15">
-		<img src="../imagenes/png/raton.png" style="position:absolute; left: 135px; top: 272px; z-index: 200; cursor:pointer;" class="oculta" id="2006">
+	<!-- Aplicaciones -->
+	<img src="../imagenes/png/aplicaciones.png" class="aplicaciones--btn" id="aplicaciones--btn">
+	<img src="../imagenes/png/aplicaciones-b.png" class="oculta aplicaciones--msg" id="aplicaciones--msg">
 
+	<!-- Internet -->
+	<img src="../imagenes/png/internet.png" class="internet--btn" id="internet--btn" >
+	<img src="../imagenes/png/internet-b.png" class="oculta internet--msg" id="internet--msg" >
 
-
-		<img src="../imagenes/png/caja-t.png" style="position:absolute; left: 55px; top: 325px; z-index: 210; cursor:pointer;" class="oculta nivel" id="transpa19">
-		<img src="../imagenes/png/caja.png" style="position:absolute; left: 110px; top:167px; z-index: 200; cursor:pointer;" class="oculta" id="2007">
-
-		<!-- Internet -->
-		
-		<img onmousemove= 'src="../imagenes/png/internet.png"' style="border: 0px solid; position: absolute;z-index:70;  width: 140px; height: 60px; top:650px; left:692px;" onmouseout='src="../imagenes/png/internet.png"' src="../imagenes/png/internet.png"  id="sitio">
-
-
-		<img src="../imagenes/png/transpa.png" style="position: absolute; left: 0px; top: 0px; z-index: 180;" class="oculta sitio" id="cerrar-sitio"/>
 
 		<!--imgsitios -->
-		<img src="../imagenes/png/internet-b.png" style="position:absolute; left: 40px; top: 2px; z-index: 220;" class="oculta sitio" id="cerrar-sitio1"/>
-
-
-		<!-- Aplicaciones -->
-		<img onmousemove= 'src="../imagenes/png/draw.png"' style="border: 0px solid; position: absolute;z-index:70; width: 140px; height: 60px; top:650px; left:575px;" onmouseout='src="../imagenes/png/draw.png"' src="../imagenes/png/draw.png"  id="personaje">
-
-		<img onmousemove= 'src="../imagenes/png/transparencia.png"' onmouseout='src="../imagenes/png/transparencia.png"' src="../imagenes/png/transparencia.png" style="position: absolute; left: 0px; top: 0px; z-index: 180;" class="oculta personaje" id="cerrar-personaje"/>
+		<img src="../imagenes/png/internet-b.png" style=" position:absolute; left: 40px; top: 2px; z-index: 220;" class="oculta sitio" id="cerrar-sitio1"/>
 
 		<!--contenido -->
 		<img src="../imagenes/png/draw-b.png" style="position:absolute; left: 146px; top: 150px; z-index: 200; cursor:pointer;" class="oculta personaje" id="vinotinto"/>
@@ -101,8 +83,7 @@
 		<img src="../imagenes/png/t-familia.png" style="position:absolute; left: 413px; top: 107px; z-index: 200;" class="oculta" id="portuguesafc">
 
 
-		 <!-- Usos -->
-		<img onmousemove= 'src="../imagenes/png/uso.png"' style="border: 0px solid; position: absolute;z-index:70; width: 140px; height: 60px;  top:650px; left:397px;" onmouseout='src="../imagenes/png/uso.png"' src="../imagenes/png/uso.png" id="clubes">
+	
 
 		<img src="../imagenes/png/transpa.png" style="position:absolute; left: 0px; top: 0px; z-index: 180;" class="oculta clubtranspa2 " id="clubtranspa2"/>
 
@@ -111,8 +92,8 @@
 
 		<!-- Actividades -->
 		<div><a href="../paginas/actividades.html"><img onmousemove= 'src="../imagenes/png/actividades.png"' style="border: 0px solid; position: absolute;z-index:70; width: 140px; height: 60px; top:650px; left:1100px;" onmouseout='src="../imagenes/png/actividades.png"' src="../imagenes/png/actividades.png"  id="sabiasq"></div>
-
-		</li>                                           
-		</ul>
-	</body>
+</body>
 </html>
+
+
+
