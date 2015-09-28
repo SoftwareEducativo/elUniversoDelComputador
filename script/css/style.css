@@ -1,7 +1,18 @@
 html, body{
 	overflow: hidden;
 }
-html{
+.inicio{
+	background-image: url(../../imagenes/png/pantallazo.png);
+	background-repeat: no-repeat;
+}
+.btn--inicio{
+	position: absolute;
+	top: 690px;
+	left: 1150px;
+	width: 133px;
+	height: 75px;
+}
+.menu{
 	background: url(../../imagenes/png/fondo.png);
 	background-repeat: no-repeat;
 	width: 1366px;
