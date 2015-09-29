@@ -1,41 +1,47 @@
 html, body{
 	overflow: hidden;
+} 
+/* componente */
+.oculta{
+	display: none;
 }
+
+/* inicio */
 .inicio{
 	background-image: url(../../imagenes/png/pantallazo.png);
 	background-repeat: no-repeat;
 }
-.btn--inicio{
+
+.inicio .btn--inicio{
 	position: absolute;
 	top: 690px;
 	left: 1150px;
 	width: 133px;
 	height: 75px;
 }
+/* menu */
 .menu{
 	background: url(../../imagenes/png/fondo.png);
 	background-repeat: no-repeat;
 	width: 1366px;
 	height: 768px;
 }
-.oculta{
-	display: none;
-}
-.bombillo{
+
+.menu .bombillo{
 	position: absolute;
 	z-index:70;
 	top:160px;
 	left:1220px;"
 	cursor: pointer;
 }
-.bombillo--msg{
+.menu .bombillo--msg{
 	position:absolute;
 	left: 350px;
 	top: 300px;
 	z-index: 200;
 }
 
-.computador--btn{
+.menu .computador--btn{
 	position: absolute;
 	z-index:70;
 	width: 140px;
@@ -43,81 +49,81 @@ html, body{
 	top:650px;
 	left:103px;
 }
-.computador--msg{
+.menu .computador--msg{
 	position: absolute;
 	left: 146px;
 	top: 150px;
 	z-index: 210;
 }
-.partes--btn{
+.menu .partes--btn{
 	position: absolute;
 	z-index:70;
 	width: 140px; height: 60px;
 	top:650px;
 	left:250px;
 }
-.partes--msg{
+.menu .partes--msg{
 	position: absolute;
 	left: 146px;
 	top: 150px;
 	z-index: 210;
 }
-.partes--btn--teclado{
+.menu .partes--btn--teclado{
 	position: absolute;
 	top: 310px;
 	left: 165px;
 	z-index: 210;
 }
-.partes--msg--teclado{
+.menu .partes--msg--teclado{
 	position:absolute;
 	left: 270px;
 	top: 300px;
 	z-index: 290;
 	cursor:pointer;
 }
-.partes--btn--monitor{
+.menu .partes--btn--monitor{
 	position: absolute;
 	top: 366px;
 	left: 170px;
 	z-index: 210;
 	cursor:pointer;
 }
-.partes--msg--monitor{
+.menu .partes--msg--monitor{
 	position: absolute;
 	left: 270px;
 	top: 320px;
 	z-index: 290;
 	cursor:pointer;
 }
-.partes--btn--raton{
+.menu .partes--btn--raton{
 	position: absolute;
 	left: 165px;
 	top: 423px;
 	z-index: 210;
 	cursor:pointer;
 }
-.partes--msg--raton{
+.menu .partes--msg--raton{
 	position: absolute;
 	left: 270px;
 	top: 420px;
 	z-index: 290;
 	cursor:pointer;
 }
-.partes--btn--caja{
+.menu .partes--btn--caja{
 	position: absolute;
 	left: 167px;
 	top: 478px;
 	z-index: 210;
 	cursor:pointer;
 }
-.partes--msg--caja{
+.menu .partes--msg--caja{
 	position: absolute;
 	left: 240px;
 	top: 370px;
 	z-index: 290;
 	cursor:pointer;
 }
-.uso--btn{
+.menu .uso--btn{
 	position: absolute;
 	z-index: 70;
 	width: 140px;
@@ -125,13 +131,13 @@ html, body{
 	top: 650px;
 	left: 397px;
 }
-.uso--msg{
+.menu .uso--msg{
 	position: absolute;
 	left: 146px;
 	top: 150px;
 	z-index: 210;
 }
-.aplicaciones--btn{
+.menu .aplicaciones--btn{
 	position: absolute;
 	z-index: 70;
 	width: 140px;
@@ -139,13 +145,13 @@ html, body{
 	top:650px;
 	left:545px;
 }
-.aplicaciones--msg{
+.menu .aplicaciones--msg{
 	position: absolute;
 	left: 146px;
 	top: 150px;
 	z-index: 210;
 }
-.internet--btn{
+.menu .internet--btn{
 	position: absolute;
 	z-index:70;
 	width: 140px;
@@ -153,13 +159,13 @@ html, body{
 	top:650px;
 	left:692px;
 }
-.internet--msg{
+.menu .internet--msg{
 	position: absolute;
 	left: 146px;
 	top: 150px;
 	z-index: 210;
 }
-.orientaciones--btn{
+.menu .orientaciones--btn{
 	position: absolute;
 	z-index:70;
 	width: 140px;
@@ -167,54 +173,52 @@ html, body{
 	top:650px;
 	left:935px;
 }
-.orientaciones--msg{
+.menu .orientaciones--msg{
 	position: absolute;
 	left: 146px;
 	top: 100px;
 	z-index: 210;
 }
-
-.orientaciones--btn1{
+.menu .orientaciones--btn1{
 	position: absolute;
 	top: 235px;
 	left: 180px;
 	z-index: 210;
 	cursor:pointer;
 }
-.orientaciones--btn1--msg{
+.menu .orientaciones--btn1--msg{
 	position:absolute;
 	left: 550px;
 	top: 200px;
 	z-index: 260;
 }
-.orientaciones--btn2{
+.menu .orientaciones--btn2{
 	position: absolute;
 	top: 293px;
 	left: 180px;
 	z-index: 210;
 	cursor:pointer;
 }
-.orientaciones--btn2--msg{
+.menu .orientaciones--btn2--msg{
 	position: absolute;
 	left: 550px;
 	top: 200px;
 	z-index: 290;
 }
-.orientaciones--btn3{
+.menu .orientaciones--btn3{
 	position: absolute;
 	top: 355px;
 	left: 180px;
 	z-index: 210;
 	cursor:pointer;
 }
-.orientaciones--btn3--msg{
+.menu .orientaciones--btn3--msg{
 	position: absolute;
 	left: 550px;
 	top: 200px;
 	z-index: 290;
 }
-
-.actividades--btn{
+.menu .actividades--btn{
 	position: absolute;
 	z-index:70;
 	width: 140px;
@@ -222,4 +226,40 @@ html, body{
 	top:650px;
 	left:1100px;
 }
+
+/* actividades */
+.actividades{
+	overflow: hidden;
+	background-image: url(../../imagenes/png/fondos.png);
+	background-repeat: no-repeat;
+}
+.actividades .btn--actividades{
+	position: absolute;
+	left: 400px;
+	top: 20px;
+}
+.actividades .btn--relaciona{
+	position: absolute;
+	left: 150px;
+	top: 200px;
+}
+.actividades .btn--identifica{
+	position: absolute;
+	left: 620px;
+	top: 200px;
+}
+.actividades .btn--menu{
+	position: absolute;
+	left: 430px;
+	top: 522px;
+}
+.actividades .img-colBic{
+	position: absolute;
+	top: 350px;
+	left: 220px;
+	width: 600px;
+}
+/* Fin actividades */
+
+
 
