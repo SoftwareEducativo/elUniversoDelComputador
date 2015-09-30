@@ -1,4 +1,29 @@
+// function resultado(id, div, total){
+// 	console.log("hola mundo")
+// 	if (document.getElementById(id).value==total){
+// 		document.getElementById(div).innerHTML="Excelente"
+// 	}
+// 	else{
+// 		document.getElementById(div).innerHTML="verifica"
+// 	}
+
+// }
+
+
+function resultado(id, div, total) {
+	console.log("hola mundo");
+	var foo =  $("#orden1").val();
+	console.log(foo);
+	// if (foo==total){
+	// 	$("#div").html("Excelente");
+	// }
+	// else{
+	// 	$("#div").html("Verifica");
+	// }
+}
 $(document).ready(function(){
+
+
 
 function cerrarPartes() {
 	$("#partes--msg").hide();
@@ -18,6 +43,7 @@ function cerrarOrientaciones(){
 	$("#orientaciones--btn2").hide();
 	$("#orientaciones--btn3").hide();
 }
+
 //bombillo 
 $("#bombillo").click(function(){
 	$("#bombillo--msg").toggle("fast");
@@ -139,3 +165,4 @@ $("#orientaciones--btn3").mouseleave(function(){
 })
 
 });
+

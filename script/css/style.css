@@ -260,8 +260,23 @@ html, body{
 	width: 600px;
 }
 /* Fin actividades */
-/*  seleccion*/
 
-/* fin seleccion*/
+/*Respuesta escrita*/
+.respuesta-escrita {
+	overflow: hidden;
+	background: url(../../imagenes/png/fondos.png) no-repeat;
+}
 
+.respuesta-escrita .titulo{
+	margin: 10px 490px 0 20px; 
 
+	text-align: center;
+}
+.respuesta-escrita .img--canaima{
+	border: 1px solid red;
+	position: absolute;
+	width: 230px;
+	height: 100px;
+	left: 170px;
+	top: 130px
+}
