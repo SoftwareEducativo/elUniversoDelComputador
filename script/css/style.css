@@ -273,10 +273,77 @@ html, body{
 	text-align: center;
 }
 .respuesta-escrita .img--canaima{
-	border: 1px solid red;
 	position: absolute;
 	width: 230px;
-	height: 100px;
+	height: 80px;
 	left: 170px;
-	top: 130px
+	top: 150px
+}
+.respuesta-escrita .img--linux{
+	position: absolute;
+	width: 90px;
+	height: 100px;
+	left: 665px;
+	top: 130px;
+}
+.respuesta-escrita .img--openoffice{
+	position: absolute;
+	width: 160px;
+	height: 100px;
+	left: 200px;
+	top: 350px;
+}
+.respuesta-escrita .img--firefox{
+	position: absolute;
+	width: 120px;
+	left: 660px;
+	top: 360px;
+}
+.respuesta-escrita .p--comp{
+	width: 150px;
+	text-align: center;
+	font-weight: bold;
+	position: absolute;
+}
+.respuesta-escrita .txt--canaima{
+	position: absolute;
+	top: 230px;
+	left: 215px;
+}
+.respuesta-escrita .p--canaima{
+	top: 240px;
+	left: 210px;
+}
+.respuesta-escrita .txt--linux{
+	position: absolute;
+	top: 230px;
+	left: 640px;
+}
+.respuesta-escrita .p--linux{
+	top: 240px;
+	left: 635px;
+
+}
+.respuesta-escrita .txt--openoffice{
+	position: absolute;
+	top: 450px;
+	left: 210px;
+}
+.respuesta-escrita .p--openoffice{
+	top: 460px;
+	left: 207px;
+}
+.respuesta-escrita .txt--firefox{
+	position: absolute;
+	top: 455px;
+	left: 645px;
+}
+.respuesta-escrita .p--firefox{
+	top: 465px;
+	left: 642px;
+}
+.respuesta-escrita .btn-regresar{
+	position:absolute;
+	left: 520px;
+	top: 685px;
 }

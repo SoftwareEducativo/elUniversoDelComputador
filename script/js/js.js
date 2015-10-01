@@ -1,29 +1,15 @@
-// function resultado(id, div, total){
-// 	console.log("hola mundo")
-// 	if (document.getElementById(id).value==total){
-// 		document.getElementById(div).innerHTML="Excelente"
-// 	}
-// 	else{
-// 		document.getElementById(div).innerHTML="verifica"
-// 	}
-
-// }
-
-
-function resultado(id, div, total) {
-	console.log("hola mundo");
-	var foo =  $("#orden1").val();
-	console.log(foo);
-	// if (foo==total){
-	// 	$("#div").html("Excelente");
-	// }
-	// else{
-	// 	$("#div").html("Verifica");
-	// }
+/*funcion usada en respuesta escrita*/
+function resultado(id, p, criterio){
+	console.log("hola mundo")
+	if (document.getElementById(id).value==criterio){
+		document.getElementById(p).innerHTML="Muy bien"
+	}
+	else{
+		document.getElementById(p).innerHTML="verifica"
+	}
 }
+
 $(document).ready(function(){
-
-
 
 function cerrarPartes() {
 	$("#partes--msg").hide();
