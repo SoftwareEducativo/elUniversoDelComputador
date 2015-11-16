@@ -1,1 +1,1 @@
-# anzoateguicpset.github.io
+# Actividad Digitalizada de Aprendizaje "El Universo del Computador"
